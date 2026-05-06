@@ -22,3 +22,6 @@ This project is a Tableau dashboard analyzing sales data.
 - Download the `.twbx` file
 - Open in Tableau Desktop or Tableau Public
 - Explore the dashboard
+
+- ## 🔗 Live Dashboard
+[View Dashboard]([your-link-here](https://public.tableau.com/app/profile/goundla.vasavi/viz/SalesAnalysisDashboard_17779123762770/SalesAnalysisDashboard))
