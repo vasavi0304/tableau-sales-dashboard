@@ -15,8 +15,8 @@ This project is a Tableau dashboard analyzing sales data.
 ![Dashboard](sales-dashboard.png)
 
 
-## File
-- sales_dashboard.twbx
+## Project File
+[Download Tableau Dashboard](sales_dashboard.twbx)
 
 - ## How to Use
 - Download the `.twbx` file
