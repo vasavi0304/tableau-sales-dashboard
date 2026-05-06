@@ -23,5 +23,6 @@ This project is a Tableau dashboard analyzing sales data.
 - Open in Tableau Desktop or Tableau Public
 - Explore the dashboard
 
-- ## 🔗 Live Dashboard
-[View Dashboard]([your-link-here](https://public.tableau.com/app/profile/goundla.vasavi/viz/SalesAnalysisDashboard_17779123762770/SalesAnalysisDashboard))
+## Live Dashboard
+[View Dashboard](https://public.tableau.com/app/profile/goundla.vasavi/viz/SalesAnalysisDashboard_17779123762770/SalesAnalysisDashboard)
+
